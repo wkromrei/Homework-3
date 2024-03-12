@@ -4,6 +4,7 @@ A webpage that collects employee data, averages their salaries, then randomly se
 
 ### Usage
 
+![A screen shot showing the average salary and random employee selection](./Screenshot 2024-03-12 at 2.39.17 PM.png).
 
 ## Deployment
 
