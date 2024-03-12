@@ -4,14 +4,14 @@ A webpage that collects employee data, averages their salaries, then randomly se
 
 ### Usage
 
-![A screen shot showing the average salary and random employee selection](./Screenshot 2024-03-12 at 2.39.17 PM.png).
+![A screen shot showing the average salary and random employee selection](Screenshot1.png)
+![A screen shot showing the data input](Screenshot2.png)
 
 ## Deployment
-
+https://wkromrei.github.io/Homework-3/
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-## Acknowledgments
 
